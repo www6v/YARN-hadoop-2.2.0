@@ -1,7 +1,7 @@
+ï»¿
+hadoop 2.2.0 é›†ç¾¤é…ç½®
 
-hadoop 2.2.0 ¼¯ÈºÅäÖÃ
-
-½ÚµãÅäÖÃ£º
+èŠ‚ç‚¹é…ç½®ï¼š
 10.15.43.7 master.hadoop.cluster
 10.15.43.1 slave1.hadoop.cluster
 10.15.43.2 slave2.hadoop.cluster
